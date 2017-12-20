@@ -15,7 +15,7 @@ This plugin modifies the way the ARPrice plugin makes buttons link to URLs. The 
 
 If a URL is provided, that URL is assigned to `location.href` to allow links to continue working without the redirect function. If JavaScript is entered as a button's link, that JavaScript will be inserted directly into the button's `onclick` attribute.
 
-I wrote this plugin while trying to make our ARPrice tables cooperate with our specific WooCommerce implementation.
+I wrote this plugin while trying to make our ARPrice tables cooperate with a specific WooCommerce implementation.
 
 == Installation ==
 
