@@ -3,7 +3,7 @@
  * Plugin Name: Liberate ARPrice Links
  * Plugin URI: https://coreysalzano.com/
  * Description: Enables JavaScript in ARPrice pricing table button links.
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Corey Salzano
  * Author URI: https://profiles.wordpress.org/salzano
  * License: GPLv2 or later

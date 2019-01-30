@@ -3,7 +3,7 @@ Contributors: salzano
 Tags: arprice, pricing table
 Requires at least: 3.0.1
 Tested up to: 4.9.1
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,6 +23,10 @@ I wrote this plugin while trying to make our ARPrice tables cooperate with a spe
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 1.1.0 =
+* [Added] Adds a feature that removes some CSS that sets a font-family on buttons.
+* [Added] Adds a feature that removes pixel dimensions set on buttons.
 
 = 1.0.0 =
 * First build
